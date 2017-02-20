@@ -16,7 +16,7 @@ p {
 }
 
 .container {
-	border: none;
+	border: 1px solid black;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 10px;
