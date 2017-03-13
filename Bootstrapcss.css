@@ -1,0 +1,74 @@
+.rowone
+{
+  background-color : #F5DEB3;
+  font-size : 30px;
+  color: black; 
+}
+.container
+{
+  background-color : silver;
+}
+.photo
+{
+  border-radius : 50%;
+}
+.rowtwotext
+{
+  font-size : 30px;
+}
+.portext
+{
+  font-size: 30px;
+}
+hr {
+width: 80%;
+height: 8px;
+margin-left: auto;
+margin-right: auto;
+background-color:#FF0066;
+color:#FF0066;
+border: 0 none;
+}
+img
+{
+  width: 450px;
+  height: 450px;
+  padding : 15px;
+  margin: 10px;
+  border : 5px;
+  border-style: solid;
+  border-color: green;
+  
+}
+.row
+{
+  padding: 40px 20px 20px 40px;
+  margin: 40px 20px 20px 40px;
+}
+.rowfour
+{
+  background-color: silver;
+}
+form
+{
+    border: 1px solid rgba(0, 0 , 0, 0.07);
+    background-color: #f6f6f6;
+    display: block;
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+  width: 100%;
+}
+.bye
+{
+  font-size: 20px;
+}
+input
+{
+  margin : 10px;
+}
+.bye
+{
+  font-family:sans serif;
+    padding: 20px 10px 10px 20px;
+}
